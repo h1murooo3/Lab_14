@@ -1,6 +1,6 @@
 # Lab 14 - Lists & User Input
 
-- Student Name: [Your Name]
+- Student Name: [Mazat Yersultan]
 - Student ID: [Your ID]
 - Date: 25.04.2026
 
